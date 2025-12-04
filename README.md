@@ -1,6 +1,6 @@
 # Syntra LLM
 ![Syntra banner](public/syntra-banner.jpg)
-A small, production-ready LLM project rebranded from deepseek_r1. This monorepo provides a complete setup for training, inference, and publishing to Hugging Face Model Hub.
+A small, production-ready LLM project. This monorepo provides a complete setup for training, inference, and publishing to Hugging Face Model Hub.
 
 ## Features
 
